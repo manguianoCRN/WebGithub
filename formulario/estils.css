@@ -1,0 +1,22 @@
+body{
+  background-image: url("../formulario/imagenes/mario.jpeg");
+}
+
+#formulari{
+  background-color: blue;
+widht: 200px;
+height: 200px
+}
+.cajitas{
+  width: 250px;
+  background-color: purple;
+  margin: 10px;
+  color: white;
+}
+.cajitas,placeholder{
+  font-family: fantasy;
+  font-style: italic;
+}
+::-wbkit-imput-placeholder{
+  color: white;
+}
