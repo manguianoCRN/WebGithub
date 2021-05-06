@@ -1,15 +1,13 @@
 body {
-background-image: url("../Les meves activitats/mario.jpeg");
+background-image: url("../img/mario.jpeg");
 }
 
-# Mis actividades{
+#Mis actividades{
   height: 300px
   width:300px
   margin-top:300px
   margin-left 300px
 }
-
-
 
 .cuadrado{
   height:160px;
@@ -17,7 +15,6 @@ background-image: url("../Les meves activitats/mario.jpeg");
   background-color: black;
   margin-top:100px;
   margin-left:100px;
-
 }
 
 #cuadradogrande{
