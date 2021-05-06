@@ -16,7 +16,7 @@
 <div class="cuadrado"><p>PT2</p></div>
 
 
-<div id="cuadradogrande"><p>5<img url="inuyasha.gif"height="380px" width="380px"></p></div>
+<div id="cuadradogrande"><p>5<url(img/inuyasha.gif) height="380px" width="380px"></p></div>
 
 <div class="cuadrado"><p>PT3</p></div>
 <div class="cuadrado"><p>PT4</p></div>
