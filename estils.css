@@ -1,0 +1,46 @@
+body {
+background-image: url("../Les meves activitats/img/mario.jpeg");
+}
+
+# Mis actividades{
+  height: 300px
+  width:300px
+  margin-top:300px
+  margin-left 300px
+}
+
+
+
+.cuadrado{
+  height:160px;
+  width:160px;
+  background-color: black;
+  margin-top:100px;
+  margin-left:100px;
+  font-family: fantasy;
+  font-style: oblique;
+  font-size: 50px;
+  text-align: center;
+  line-height: 170px;
+}
+
+a{
+  color: white;
+}
+
+a:visited{
+  color: white;
+}
+
+a:active{
+  color: white;
+}
+
+#cuadradogrande{
+  height:400px;
+  width:400px;
+  background-color: white;
+  margin-right:1200px;
+  float: right;
+  margin-top: -400px;
+}

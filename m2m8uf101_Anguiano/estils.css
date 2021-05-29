@@ -1,0 +1,28 @@
+body {
+  background-color: cyan;
+}
+
+#content{
+background-color: grey;
+width: 500px;
+height: 500px;
+justify-content: center;
+}
+
+.corazon{
+  background-color: red;
+  height: 300px;
+  width: 300px;
+  margin: 0 auto;
+  top: 250px;
+  position: relative;
+}
+
+.corazon:after {
+  height: 300px;
+  width: 300px;
+  background-color: green;
+  content: '';
+  transform: translateY(-150px);
+  position: absolute;
+}

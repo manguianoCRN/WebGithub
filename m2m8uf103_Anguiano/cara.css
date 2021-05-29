@@ -1,0 +1,46 @@
+body{
+  background-color: red;
+  }
+
+
+
+
+
+#cara{
+width :500px;
+height:650px;
+border-radius : 51% 49% 52% 48% / 47% 52% 48% 53%;
+background-color : #F6DDCC;
+margin: 0 auto;
+}
+
+}
+#ojos{
+  width :250px;
+  height:70px;
+  background:red ;
+  position : absolute;
+  left:375px;
+  top : 230px ;
+  border: solid 4px black ;
+}
+#nariz{
+  width :50px;
+  height:50px;
+  background:white ;
+  position : absolute;
+  left:425px;
+    top : 330px ;
+    border: solid 4px black ;
+
+}
+#cejas {
+width :50px;
+height:50px;
+background:white ;
+position : absolute;
+left:515px;
+top : 330px ;
+border: solid 4px black ;
+
+  }
